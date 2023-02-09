@@ -3,16 +3,16 @@
 # Project Name: Dental Health Care
 
 # Project Synoposis: 
-## Dental and oral health is an essential part of your overall health and well-being. Poor oral hygiene can lead to dental cavities and gum disease, and has also been linked to heart disease, cancer, and diabetes. Maintaining healthy teeth and gums is a lifelong commitment. The earlier you learn proper oral hygiene habits — such as brushing, flossing, and limiting your sugar intake — the easier it’ll be to avoid costly dental procedures and long-term health issues.
+### Dental and oral health is an essential part of your overall health and well-being. Poor oral hygiene can lead to dental cavities and gum disease, and has also been linked to heart disease, cancer, and diabetes. Maintaining healthy teeth and gums is a lifelong commitment. The earlier you learn proper oral hygiene habits — such as brushing, flossing, and limiting your sugar intake — the easier it’ll be to avoid costly dental procedures and long-term health issues.
 
 # Azure Technologies Used: 
-## static webapp 
-## Azure health bot
+### static webapp 
+### Azure health bot
 
 # Webstack used:
-## Html ,
-## Css, 
-## Javascript
+### Html ,
+### Css, 
+### Javascript
 
 # Project Demo links:
 ## Github Reposistory Link: https://github.com/tummalapallisrikar/dentalhealth
@@ -41,7 +41,7 @@
 ## Bot webachat secret key:
 ![secret key](https://user-images.githubusercontent.com/121095884/217790241-36038504-ad6d-482e-a214-437bd6b41a1f.png)
 
-# Health bot test in webchat:
+## Health bot test in webchat:
 ![test in webchat](https://user-images.githubusercontent.com/121095884/217790306-78f6239e-fc36-4a3f-a36f-17ab6e292aee.png)
 
 # project screen shots:
