@@ -47,14 +47,19 @@
 # project screen shots:
 
 ## Home page:
+![home](https://user-images.githubusercontent.com/121095884/217791218-4ac9dda3-0996-46a9-a294-9e43cf13e403.png)
 
 ## About us:
+![about](https://user-images.githubusercontent.com/121095884/217791259-fb427785-40cd-4760-be4f-69e7fd2fc246.png)
+
 
 ## contactus page:
+![contact](https://user-images.githubusercontent.com/121095884/217791296-5dd10966-b5d6-46dc-ab45-391c4a618ea6.png)
 
-## Team:
 
 ## portfilo:
+![portfilo](https://user-images.githubusercontent.com/121095884/217791373-5f7e3e75-a4e5-4259-b346-cb75823b16e3.png)
 
 ## Dentalappointment bot functionality:
+
 
