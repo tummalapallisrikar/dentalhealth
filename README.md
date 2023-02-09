@@ -15,8 +15,8 @@
 ## Javascript
 
 # Project Demo links:
-## Github Reposistory Link: 
-## Azure project link:
+## Github Reposistory Link: https://github.com/tummalapallisrikar/dentalhealth
+## Azure project link:https://green-stone-04af53810.2.azurestaticapps.net
 
 # Azure Technology Screenshots: Resources page,Static Webapp Page,Azure healthbot page:
 
